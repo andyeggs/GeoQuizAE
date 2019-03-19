@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\e1bfd5e370cc68faef41bbc02f87774a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\7caeea25a72019fe41de2bba2f9351be\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\5befdce76ed9b98f56b327cc735cb52d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\3c5b9cd061a04183ac09a84bf139e35b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\5b82f5c655df8b42db7e1953765858a7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\c20b9a4ceb71814339219ce3cd0f9beb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\efaa4bdf4daf28ffd31e29c892022ebd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\054aeae36ab0fbe8e93aadc0f7343a4a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\22d0d1513319648382fb3f1c8fd9b246\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\ab69357e391cec26f4f1d2957f229ea5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\9bec59f80f1ee2f8891e912dd7edd30b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\cfec623044b7be15d67ed38545bf7fde\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\292fa4ca4fcabf6fcfa043dfb53f57ad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\5d21f040d0b9cf58561e2af18455efb2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\51aeee960f7fce4339f28da932a33c96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\faa515172dc7b45a642ffb34efab3893\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\36ecc0a99e260cde3b29d6e15b2b0470\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\3f66a84eababee0ca3af22fdb23268b9\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\579b0e62499b8502f51d654247c6132a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\c6e01bf864ac99233c065d90728230ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\62297349bc4632e151c2e6c42601820c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\510c8ea66bf5353c46af45b9bd910e71\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\6c93a9a26514f546106624e0a1e3f9ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\73c2944ef75b1ed6754ff66f8121ab56\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\dcdae04dc7d21f8c5360878236463e05\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\b652b9da6beea1c61833cf8fa525ca13\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\7caeea25a72019fe41de2bba2f9351be\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\7caeea25a72019fe41de2bba2f9351be\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\faa515172dc7b45a642ffb34efab3893\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\faa515172dc7b45a642ffb34efab3893\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\3f66a84eababee0ca3af22fdb23268b9\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\3f66a84eababee0ca3af22fdb23268b9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\faa515172dc7b45a642ffb34efab3893\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.ctech.andyeggs.geoquizae.MainActivity
+ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\e1bfd5e370cc68faef41bbc02f87774a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\e1bfd5e370cc68faef41bbc02f87774a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\7caeea25a72019fe41de2bba2f9351be\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\7caeea25a72019fe41de2bba2f9351be\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\5befdce76ed9b98f56b327cc735cb52d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\5befdce76ed9b98f56b327cc735cb52d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\3c5b9cd061a04183ac09a84bf139e35b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\3c5b9cd061a04183ac09a84bf139e35b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\5b82f5c655df8b42db7e1953765858a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\5b82f5c655df8b42db7e1953765858a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\c20b9a4ceb71814339219ce3cd0f9beb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\c20b9a4ceb71814339219ce3cd0f9beb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\efaa4bdf4daf28ffd31e29c892022ebd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\efaa4bdf4daf28ffd31e29c892022ebd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\054aeae36ab0fbe8e93aadc0f7343a4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\054aeae36ab0fbe8e93aadc0f7343a4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\22d0d1513319648382fb3f1c8fd9b246\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\22d0d1513319648382fb3f1c8fd9b246\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\ab69357e391cec26f4f1d2957f229ea5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\ab69357e391cec26f4f1d2957f229ea5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\9bec59f80f1ee2f8891e912dd7edd30b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\9bec59f80f1ee2f8891e912dd7edd30b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\cfec623044b7be15d67ed38545bf7fde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\cfec623044b7be15d67ed38545bf7fde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\292fa4ca4fcabf6fcfa043dfb53f57ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\292fa4ca4fcabf6fcfa043dfb53f57ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\5d21f040d0b9cf58561e2af18455efb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\5d21f040d0b9cf58561e2af18455efb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\51aeee960f7fce4339f28da932a33c96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\51aeee960f7fce4339f28da932a33c96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\faa515172dc7b45a642ffb34efab3893\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\faa515172dc7b45a642ffb34efab3893\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\36ecc0a99e260cde3b29d6e15b2b0470\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\36ecc0a99e260cde3b29d6e15b2b0470\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\3f66a84eababee0ca3af22fdb23268b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\3f66a84eababee0ca3af22fdb23268b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\579b0e62499b8502f51d654247c6132a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\579b0e62499b8502f51d654247c6132a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\c6e01bf864ac99233c065d90728230ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\c6e01bf864ac99233c065d90728230ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\62297349bc4632e151c2e6c42601820c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\62297349bc4632e151c2e6c42601820c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\510c8ea66bf5353c46af45b9bd910e71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\510c8ea66bf5353c46af45b9bd910e71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\6c93a9a26514f546106624e0a1e3f9ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\6c93a9a26514f546106624e0a1e3f9ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\73c2944ef75b1ed6754ff66f8121ab56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\73c2944ef75b1ed6754ff66f8121ab56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\dcdae04dc7d21f8c5360878236463e05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\dcdae04dc7d21f8c5360878236463e05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\b652b9da6beea1c61833cf8fa525ca13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\andyj\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\b652b9da6beea1c61833cf8fa525ca13\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andyj\Desktop\GeoQuizAE\app\src\main\AndroidManifest.xml
